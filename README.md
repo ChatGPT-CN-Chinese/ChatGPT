@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费直连指南（支持 GPT-4o、GPT-4、GPT-3.5，无需翻墙）【2025年5月最新】
 
-> **更新时间：2025/05/14**     
+> **更新时间：2025/05/15**     
 
 本文提供全面的 **[ChatGPT 中文版](https://snakegpt.com.cn) 使用指南**，精选国内优质镜像网站，支持 **GPT-4o、GPT-4、GPT-3.5、deepseek-r1、GPT-o3** 等多款模型，无需翻墙即可访问。无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://snakegpt.com.cn)**，并提供官网注册教程和常见问题解答。
 
@@ -44,7 +44,7 @@
 | [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4o, GPT-4, GPT-3.5, deepseek-r1, GPT-o3 | 有           | 国内邮箱支持      | ⭐⭐⭐⭐⭐    | 运营两年，支持 GPT-4o，内置 MJ 绘图，适合开发者和普通用户 |
 | [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4o, GPT-4, GPT-3.5, Claude, deepseek-r1, GPT-o3 | 有           | 国内邮箱支持      | ⭐⭐⭐⭐⭐    | 支持 GPT-o1，一比一还原官网，支持实时语音和视频对话 |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5      | 有           | 国内邮箱支持      | ⭐⭐⭐⭐     | 支持开发者 API，服务稳定                |
-| [gptdog.online](https://gptdog.online)   | GPT-3.5             | 有           | 国内邮箱支持      | ⭐⭐⭐      | 操作简单，适合基础聊天需求              |
+
 
 ---
 
